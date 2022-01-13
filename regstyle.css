@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.logodent{
+    margin-left: 450px;
+}
+.titlelogo {
+    text-decoration: none;
+}
+.logoadd {
+    margin-left: 120px;
+}
+
+h1 {
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+}
+
+input {
+border-top: none;
+border-left: none;
+border-right: none;
+margin: 5px;
+margin-top: 5px;
+}
+
+select {
+    margin: 5px;
+    margin-top: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+label {
+    margin: 5px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.patient-information {
+    margin: 10px;
+}
+
+.name-date {
+    margin:5px;
+}
+
+.tooth-numbers {
+    display: flex;
+    justify-content: center;
+}
+
+.imgtooth {
+    margin-right: 100px;
+}
+
+.maxilla {
+    margin-right: 30px;
+}
+
+.medical-conditions1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.list-conditions1 { 
+    display: grid;
+}
+
+.list-conditions2 {
+    display: grid;
+}
+
+.list-conditions3 {
+    display: grid;
+}
+
+.agreement1 {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+.agreement2 {
+    justify-content: center;
+    font-style: italic;
+}
+
+#register-form {
+    display: flex;
+    margin-left: 450px;
+    margin-bottom: 50px;
+    background-color: rgb(22, 156, 22);
+    font-size: 27px;
+    border-radius: 10px;
+    color: white;
+    border-color: white;
+}
+
+#register-form:hover {
+    cursor: pointer;
+    background-color: white;
+    color:rgb(22, 156, 22);
+}
+
+.allergy-conditions {
+    display: flex;
+    justify-content: center;
+    margin-right: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.allergy1 {
+    display: grid;
+    margin-right: 5px;
+
+}
+
+.allergy2{
+    display: grid;
+}
+
+.women-condition {
+    margin-left: 240px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
